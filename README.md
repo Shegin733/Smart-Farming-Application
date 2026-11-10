@@ -2,18 +2,12 @@
 # Smart Farming Mobile Application
 ## FarmAlly – Project Demo
 
+![FarmAlly Thumbnail](assets/FarmAlly_GitHub_Thumbnail.png)
 
-<video
-  width="100%"
-  controls
-  preload="metadata"
-  poster="assets/FarmAlly_GitHub_Thumbnail.png">
-  <source src="https://github.com/user-attachments/assets/fbcbf8db-4f65-42ce-9996-bd0ef49a1230" type="video/mp4">
-  Your browser does not support embedded videos.
-  <a href="https://github.com/user-attachments/assets/fbcbf8db-4f65-42ce-9996-bd0ef49a1230">Watch FarmAlly Demo</a>
-</video>
 
-*Click the thumbnail to watch the FarmAlly demonstration.*
+
+https://github.com/user-attachments/assets/fbcbf8db-4f65-42ce-9996-bd0ef49a1230
+
 ## Overview
 
 This project is a Mobile Application designed to control and monitor a Greenhouse Environment using the ESP8266 microcontroller. The application allows users to manage devices like fans, lights, and sliding windows, and to monitor temperature and other environmental factors. Data is sent to a Firebase Realtime Database and displayed in the Flutter app. The project also includes several advanced modules for crop prediction, cost estimation, pest classification, weed classification, IoT control, and agricultural news updates.
