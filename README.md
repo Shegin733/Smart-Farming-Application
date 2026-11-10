@@ -3,8 +3,8 @@
 ## FarmAlly – Project Demo
 
 
-[![FarmAlly Project Demo](assets/FarmAlly_GitHub_Thumbnail.png)](
-https://github.com/user-attachments/assets/fbcbf8db-4f65-42ce-9996-bd0ef49a1230)
+
+https://github.com/user-attachments/assets/98a10298-96f8-4e8d-aaa8-2341a87ef459
 
 
 ## Overview
