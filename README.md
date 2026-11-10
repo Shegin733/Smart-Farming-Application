@@ -2,7 +2,16 @@
 # Smart Farming Mobile Application
 ## FarmAlly – Project Demo
 
-[![Watch FarmAlly Demo](assets/FarmAlly_GitHub_Thumbnail.png)](https://github.com/Shegin733/Smart-Farming-Application/releases/download/v1.0/FarmAlly_Smart_Farming_Brand_Film.mp4)
+
+<video
+  width="100%"
+  controls
+  preload="metadata"
+  poster="assets/FarmAlly_GitHub_Thumbnail.png">
+  <source src="https://github.com/user-attachments/assets/fbcbf8db-4f65-42ce-9996-bd0ef49a1230" type="video/mp4">
+  Your browser does not support embedded videos.
+  <a href="https://github.com/user-attachments/assets/fbcbf8db-4f65-42ce-9996-bd0ef49a1230">Watch FarmAlly Demo</a>
+</video>
 
 *Click the thumbnail to watch the FarmAlly demonstration.*
 ## Overview
