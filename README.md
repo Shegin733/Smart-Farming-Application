@@ -1,6 +1,6 @@
 
 # Smart Farming Mobile Application
-
+[![FarmAlly: Your Smart Greenhouse Companion](https://repoclip.io/api/badge/738055a5-47df-42f0-a402-9cff2e110b37)](https://repoclip.io/v/738055a5-47df-42f0-a402-9cff2e110b37)
 ## Overview
 
 This project is a Mobile Application designed to control and monitor a Greenhouse Environment using the ESP8266 microcontroller. The application allows users to manage devices like fans, lights, and sliding windows, and to monitor temperature and other environmental factors. Data is sent to a Firebase Realtime Database and displayed in the Flutter app. The project also includes several advanced modules for crop prediction, cost estimation, pest classification, weed classification, IoT control, and agricultural news updates.
