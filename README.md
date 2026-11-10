@@ -2,11 +2,10 @@
 # Smart Farming Mobile Application
 ## FarmAlly – Project Demo
 
-![FarmAlly Thumbnail](assets/FarmAlly_GitHub_Thumbnail.png)
 
+[![FarmAlly Project Demo](assets/FarmAlly_GitHub_Thumbnail.png)](
+https://github.com/user-attachments/assets/fbcbf8db-4f65-42ce-9996-bd0ef49a1230)
 
-
-https://github.com/user-attachments/assets/fbcbf8db-4f65-42ce-9996-bd0ef49a1230
 
 ## Overview
 
